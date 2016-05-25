@@ -5,7 +5,6 @@
 
 __author__ = "Mathis GERMA"
 __version__ = "3-9.5.3"
-__email__ = "germa.mathis@gmail.com"
 __status__ = "Production"
 
 
