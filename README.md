@@ -1,6 +1,9 @@
 # crowd-simulation
 Basic discrete python simulation of a crowd evolution.
 
+Dependencies :
+pylab
+tkinter
 
 Architectures displayer : V9.5 tier Representation.py
 Displays an architecture with diffences to basic architecture in red.
